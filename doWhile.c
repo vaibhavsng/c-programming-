@@ -17,5 +17,4 @@ int main()
         scanf(" %c",&count);
     }
     while (count=='y');
-
 }
