@@ -11,7 +11,6 @@ void main()
     for(i=0;name[i]!='\0';i++)
         length=length+1;
     printf("\n\nlength is %d\n\n",length);
-
     for(i=length-1;i>=0;i--)
         printf("%c",name[i]);
     getch();
