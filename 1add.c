@@ -1,4 +1,3 @@
-\**a prorgam**\
 #include<stdio.h>
 #include<conio.h>
 int main()
