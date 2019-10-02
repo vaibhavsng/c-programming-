@@ -10,7 +10,6 @@ int main()
        scanf("%d",&marks[i]);
      sum=sum+marks[i];
      }
-
     printf("sum is %d",sum);
     getch();
 }
